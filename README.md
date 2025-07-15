@@ -1,6 +1,4 @@
 
-# 🗂️ EmploiPublic‑Solution
-
 ## 📄 Project Structure
 ```
 EmploiPublic‑Solution/
@@ -33,8 +31,8 @@ Python data scaping for `https://www.emploi-public.ma/fr/`. A solution for the E
    ```bash
    py-3.10 -m venv venv
    source venv/bin/activate   # macOS/Linux
-   .\venv\Scripts\activate 
-   py -m pip install -U pip setuptools     # Windows
+   .\venv\Scripts\activate    # Windows
+   py -m pip install -U pip setuptools     
    ```
 
 3. Install dependencies:
